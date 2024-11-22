@@ -2,5 +2,5 @@
 
 int main(){
 
-    printf("test.c\n");
+    printf("test.c asdfa\n");
 }
